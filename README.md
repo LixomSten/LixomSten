@@ -1,3 +1,5 @@
+> Still writing this page, I'm a bit slow sometimes! :P
+
 ## Introduction
 Hi there! I'm Sten and I spend a lot of my free time coding and contributing to different projects, both on github but also on some other platforms. One thing that I try to pay a lot of attention to is that all my code should be of high quality and high customization settings.
 
