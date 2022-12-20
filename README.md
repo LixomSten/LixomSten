@@ -12,7 +12,7 @@ Hi there! I'm Sten and I spend a lot of my free time coding and contributing to 
 
 ### Tools:
 <div align="left">
-  <img src="https://docs.pycord.dev/en/master/_static/pycord_logo.png" alt="py-cord" width=40 height=40><img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="sql" width=40 height=40><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" width=40 height=40><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" alt="requests" width=40 height=40>
+  <img src="https://docs.pycord.dev/en/master/_static/pycord_logo.png" alt="py-cord" width=40 height=40><img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="sql" width=40 height=40><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" alt="requests" width=40 height=40>
 
 </div>
 
