@@ -1,5 +1,5 @@
 ## Introduction
-Hi there! I'm Sten, 15, and I love coding, solving puzzles and playing games! I spend a lot of my free time coding and contributing to different projects, both on github but also on some other platforms. The thing I try to always pay a lot of attention to while coding is quality and high customization! Outside of github and coding, I often spend time on discord. Where I work as a server owner, developer and a few other positions.
+Hi there! I'm Sten, 16, and I love coding, solving puzzles and playing games! I spend a lot of my free time coding and contributing to different projects, both on github but also on some other platforms. The thing I try to always pay a lot of attention to while coding is quality and high customization! Outside of github and coding, I often spend time on discord. Where I work as a server owner, developer and a few other positions.
 
 If you ever need any help with anything, feel free to leave me a dm and I'll probably to my best to help!
 
